@@ -14,6 +14,7 @@ Official implementation of:
 ## 📌 News
 
 - [x] 🎉 Our paper has been accepted by **ACM Multimedia 2026**.
+- [ ] Paper will be released soon.
 - [ ] Code will be released soon.
 - [ ] The project page is available.
 
