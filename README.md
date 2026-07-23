@@ -6,11 +6,6 @@ Official implementation of:
 
 > Accepted by **ACM Multimedia 2026** 🎉
 
-[![Paper](https://img.shields.io/badge/Paper-ACM%20MM%202026-blue)](https://chatgpt.com/c/6a622522-8d48-83ea-91c4-002393e929f5)
-[![Python](https://img.shields.io/badge/Python-3.10+-green)](https://chatgpt.com/c/6a622522-8d48-83ea-91c4-002393e929f5)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://chatgpt.com/c/6a622522-8d48-83ea-91c4-002393e929f5)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://chatgpt.com/c/6a622522-8d48-83ea-91c4-002393e929f5)
-
 ## 📌 News
 
 - [x] 🎉 Our paper has been accepted by **ACM Multimedia 2026**.
