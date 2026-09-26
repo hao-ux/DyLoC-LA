@@ -9,8 +9,8 @@ Official implementation of:
 ## 📌 News
 
 - [x] 🎉 Our paper has been accepted by **ACM Multimedia 2026**.
-- [x] Paper will be released soon.
-- [ ] Code will be released soon.
+- [ ] Paper will be released soon.
+- [x] Code will be released soon.
 - [ ] The project page is available.
 
 ## 🌟 Abstract
