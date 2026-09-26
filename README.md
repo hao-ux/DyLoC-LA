@@ -29,3 +29,8 @@ Medical image segmentation remains challenging due to inherent imaging noise and
 
 ![3](img/3.png)
 
+## Acknowledgements:
+
+The 2D training and evaluation code can be found in the [U-bench](https://github.com/FengheTan9/U-Bench).
+
+The 3D training and evaluation code can be found in the [SegMamba](https://github.com/ge-xing/SegMamba).
